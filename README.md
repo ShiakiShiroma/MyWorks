@@ -1,4 +1,4 @@
-# MyWorks
+# NUMBER×NUMBER
 趣味・ハッカソンで作成した制作物です。
 
 [NNUMBER×NUMBER.py]
